@@ -4,7 +4,7 @@ ihr clont das repository, dann habt ihr die aktuellste version
 via terminal:
 (dafür müsst ihr git installieren)
 
-git clone https://github.com/JamesBot007/groovygrover.git
+git clone <repo-url>
 
 dann könnt ihr das dokument öffnen und daran arbeiten,
 fügt dann mit z.B.
